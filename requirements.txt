@@ -1,0 +1,7 @@
+streamlit>=1.40,<1.50
+yfinance>=0.2.50
+pandas
+numpy
+scipy
+plotly
+openpyxl
