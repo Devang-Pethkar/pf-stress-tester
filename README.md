@@ -1,4 +1,4 @@
-# Risk Analysis Tool (360 Huntington Fund)
+# Risk Analysis Tool 
 
 A Streamlit app that produces a full risk report for any US-listed ticker, with direct Excel export.
 
